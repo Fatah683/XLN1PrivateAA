@@ -1,0 +1,7 @@
+After the recent team meeting, we took the time to collectively reflect on the feedback and insights gathered. One of the key challenges we faced was maintaining punctuality and ensuring full attendance,which proved to be a bit difficult to coordinate. However, having everyone present was essential, as it allowed us to effectively discuss and understand the key points raised. This experience made us realize that better planning and communication are crucial when organizing meetings.
+
+As a team, we discussed areas of improvement based on the feedback we received. One important point that stood out was the need to make error messages more descriptive. We agreed that providing clearer and more informative messages would help users identify issues more efficiently, especially if the alert does not appear in the expected location.
+
+We also acknowledged the importance of adding validation for the "See Notes" field, as it was pointed out that the lack of validation could hinder the system's reliability. Additionally, we discussed implementing search and filter functionality when viewing cases and users to enhance usability, as the system needs to handle a high volume of cases. Implementing pagination was also suggested to improve performance when displaying large datasets.
+
+Overall, we agreed that maintaining punctuality and effective communication within the team are essential moving forward. We will work on implementing the suggested improvements while continuing to collaborate efficiently as a group.
